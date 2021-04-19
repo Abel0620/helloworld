@@ -22,7 +22,7 @@ public class UserinfoController {
 
     /**
      * 通过主键查询单条数据
-     *
+     * 向江豪蠢麻批
      * @param id 主键
      * @return 单条数据
      */
